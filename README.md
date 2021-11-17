@@ -57,7 +57,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | register |  | Enables counting of messages for the user in #revedtv or #papaplatte | user 
  | registereduser |  | Check how many user are registered for the chatting command | user 
  | registeruser |  | Enable count the messages in #revedtv or #papaplatte for an user | admin, dev 
- | reload |  | Reload commands | admin 
+ | reload |  | Reload commands xd | admin 
  | removeping |  | disable to get a whisper by added or removed emotes of a channel | user 
  | removesuggestion |  | Remove your suggestion | user 
  | reset stats |  | Resetting Stats of Message Count | admin 
