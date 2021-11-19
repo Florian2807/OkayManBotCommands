@@ -54,6 +54,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | pick |  | Picks a word from the provided list of words in a message :)  | user 
  | ping | pong | Just a Ping command | user 
  | pingme |  | Pings you | user 
+ | randomcolor | rc | Gives you a random Hex-Code | user 
  | register |  | Enables counting of messages for the user in #revedtv or #papaplatte | user 
  | registereduser |  | Check how many user are registered for the chatting command | user 
  | registeruser |  | Enable count the messages in #revedtv or #papaplatte for an user | admin, dev 
