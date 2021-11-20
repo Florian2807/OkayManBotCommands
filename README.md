@@ -52,7 +52,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | massping |  | pings everyone in the chat :tf: | dev, trusted 
  | mcl |  | undefined | user 
  | modage | modcheck | Checks if a user is mod in a channel | user 
- | momjoke |  | yo momma joke | user 
+ | momjoke | mj | yo momma joke | user 
  | pick |  | Picks a word from the provided list of words in a message :)  | user 
  | ping | pong | Just a Ping command | user 
  | pingme |  | Pings you | user 
