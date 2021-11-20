@@ -49,7 +49,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | lastseen | ls | check after the date where this user typed his last message | user 
  | leave |  | Leave your Channel | user 
  | level | lvl | Check Userlevel of you or other users | user 
- | massping |  | pings everyone in the chat :tf: | user 
+ | massping |  | pings everyone in the chat :tf: | dev, trusted 
  | mcl |  | undefined | user 
  | modage | modcheck | Checks if a user is mod in a channel | user 
  | pick |  | Picks a word from the provided list of words in a message :)  | user 
