@@ -42,7 +42,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | followage | fa | Check your Followage | user 
  | getaliases |  | Picks a word from the provided list of words in a message :)  | user 
  | help |  | Give you informations about commands | user 
- | islive |  | Check livestatus of a streamer | user 
+ | islive | live | Check livestatus of a streamer | user 
  | iswebchatter |  | Check if a user is chatting with webchat | user 
  | join |  | Join your Channel | user 
  | lastline | ll | check after the date where this user typed his last message | user 
@@ -52,6 +52,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | massping |  | pings everyone in the chat :tf: | dev, trusted 
  | mcl |  | undefined | user 
  | modage | modcheck | Checks if a user is mod in a channel | user 
+ | momjoke |  | yo momma joke | user 
  | pick |  | Picks a word from the provided list of words in a message :)  | user 
  | ping | pong | Just a Ping command | user 
  | pingme |  | Pings you | user 
@@ -60,7 +61,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | registereduser |  | Check how many user are registered for the chatting command | user 
  | registeruser |  | Enable count the messages in #revedtv or #papaplatte for an user | admin, dev 
  | reload |  | Reload commands | admin 
- | removeping |  | disable to get a whisper by added or removed emotes of a channel | user 
+ | removepings | removeping | disable to get a whisper by added or removed emotes of a channel | user 
  | removesuggestion |  | Remove your suggestion | user 
  | reset stats |  | Resetting Stats of Message Count | admin 
  | restart |  | Restarts the bot | admin 
