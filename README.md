@@ -35,7 +35,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | ecount | count | You can check how many times an emote was used today | user 
  | emoteannounce | ea | enable or disable emote announcements in your chat | user 
  | emotepings | emoteping | enable to get a whisper by added or removed emotes of a channel | user 
- | emotes | subemotes | Check Sub-Emotes of a Streamer | user 
+ | emotes | emotes | Check Sub-Emotes of a Streamer | user 
  | eval | eval | Evaluates the given code | admin 
  | ffzemotes | ffz | Shows you a list of all FFZ emotes of the Channel | user 
  | ffzsearch |  | Search an emote on the FFZ Website | user 
@@ -71,6 +71,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | spam |  | spams something into the chat (max. 50) | user 
  | spotify |  | check what flo is listening :) | user 
  | subage | sa | Check your Subage | user 
+ | subemotes |  | Shows you all subemote of a streamer | user 
  | suggest |  | Suggest something, that can help the bot :) | user 
  | test |  | Test | admin 
  | timeouts |  | Check how many timeouts a user get in the specified chat today | user 
