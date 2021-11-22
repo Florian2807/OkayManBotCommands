@@ -34,6 +34,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | denysuggest | deletesuggest | delete a suggestion | admin 
  | ecount | count | You can check how many times an emote was used today | user 
  | emoteannounce | ea | enable or disable emote announcements in your chat | user 
+ | emotegame | emotequiz | starts an emote quiz | user 
  | emotepings | emoteping | enable to get a whisper by added or removed emotes of a channel | user 
  | emotes | emotes | Check Sub-Emotes of a Streamer | user 
  | eval | eval | Evaluates the given code | admin 
@@ -49,7 +50,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | lastseen | ls | check after the date where this user typed his last message | user 
  | leave |  | Leave your Channel | user 
  | level | lvl | Check Userlevel of you or other users | user 
- | massping |  | pings everyone in the chat :tf: | dev, trusted 
+ | massping |  | pings everyone in the chat :tf: | admin 
  | mcl |  | undefined | user 
  | modage | modcheck | Checks if a user is mod in a channel | user 
  | momjoke | mj | yo momma joke | user 
