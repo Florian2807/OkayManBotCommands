@@ -28,6 +28,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | chatting | kiandochatting, chattinge | Check how many messages this user has written in the specified chat | user 
  | checkbotprefix |  | Check the Bot-Prefix for specified channels | user 
  | checkprefix |  | Gives you the Emote-Prefix of streamers | user 
+ | cock |  | Your cock size | user 
  | coinflip | cf | Just a coinflip 4Head | user 
  | color |  | Check Color of you or other users | user 
  | commands | cmds | Shows you a list of all my commands | user 
@@ -80,6 +81,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | topchatter | topchatters, topchatting, top | Shows the chatter with the most messages in #revedtv or #papaplatte today | user 
  | topchatterall | topallchatter | Shows the chatter with the most messages in #revedtv or #papaplatte since september 1. | user 
  | toptimeouts |  | Shows the chatter with the most timeouts in #revedtv or #papaplatte today | user 
+ | toptimeoutsall | topalltimeouts | Shows the chatter with the most timeouts in #revedtv or #papaplatte since september 1. | user 
  | unblock |  | Unblock commands in the targeted chat | admin, mod 
  | unregister |  | Disables counting of messages for the user in #revedtv or #papaplatte | user 
  | unregisteruser |  | Disable count the messages in #revedtv or #papaplatte for an User | admin, dev 
