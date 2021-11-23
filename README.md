@@ -67,6 +67,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | reset stats |  | Resetting Stats of Message Count | admin 
  | restart |  | Restarts the bot | admin 
  | say |  | repeat your message | user 
+ | searchusername | su | Pings you | user 
  | setlevel |  | Set Userlevel | admin 
  | setprefix |  | Change Bot-Prefix for the targeted chat | admin, dev 
  | spam |  | spams something into the chat (max. 50) | user 
@@ -78,6 +79,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | timeouts |  | Check how many timeouts a user get in the specified chat today | user 
  | topchatter | topchatters, topchatting, top | Shows the chatter with the most messages in #revedtv or #papaplatte today | user 
  | topchatterall | topallchatter | Shows the chatter with the most messages in #revedtv or #papaplatte since september 1. | user 
+ | toptimeouts |  | Shows the chatter with the most timeouts in #revedtv or #papaplatte today | user 
  | unblock |  | Unblock commands in the targeted chat | admin, mod 
  | unregister |  | Disables counting of messages for the user in #revedtv or #papaplatte | user 
  | unregisteruser |  | Disable count the messages in #revedtv or #papaplatte for an User | admin, dev 
