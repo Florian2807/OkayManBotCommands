@@ -32,6 +32,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | coinflip | cf | Just a coinflip 4Head | user 
  | color |  | Check Color of you or other users | user 
  | commands | cmds | Shows you a list of all my commands | user 
+ | content |  | Content for stream (only avalible in #florian_2807 | user 
  | denysuggest | deletesuggest | delete a suggestion | admin 
  | ecount | count | You can check how many times an emote was used today | user 
  | emoteannounce | ea | enable or disable emote announcements in your chat | user 
