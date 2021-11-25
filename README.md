@@ -27,7 +27,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | channels |  | Shows you in how much Channels the Bot is | user 
  | chatting | kiandochatting, chattinge | Check how many messages this user has written in the specified chat | user 
  | checkbotprefix |  | Check the Bot-Prefix for specified channels | user 
- | checkprefix |  | Gives you the Emote-Prefix of streamers | user 
+ | checkprefix | prefix | Gives you the Emote-Prefix of streamers | user 
  | cock |  | Your cock size | user 
  | coinflip | cf | Just a coinflip 4Head | user 
  | color |  | Check Color of you or other users | user 
