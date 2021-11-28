@@ -69,9 +69,9 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | reset stats |  | Resetting Stats of Message Count | admin 
  | restart |  | Restarts the bot | admin 
  | say | echo | repeat your message | user 
- | searchusername | su | Pings you | user 
+ | searchusername | su | Not avalible | user 
  | setlevel |  | Set Userlevel | admin 
- | setprefix |  | Change Bot-Prefix for the targeted chat | admin, dev 
+ | setprefix |  | Change Bot-Prefix for the targeted chat | admin, dev, broadcaster 
  | spam |  | spams something into the chat (max. 50) | user 
  | spotify |  | check what flo is listening :) | user 
  | subage | sa | Check your Subage | user 
