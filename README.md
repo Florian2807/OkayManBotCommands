@@ -53,6 +53,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | leave |  | Leave your Channel | user 
  | level | lvl | Check Userlevel of you or other users | user 
  | massping |  | pings everyone in the chat :tf: | admin 
+ | math |  | Does math 4Head | user 
  | mcl |  | undefined | user 
  | modage | modcheck | Checks if a user is mod in a channel | user 
  | momjoke | mj | yo momma joke | user 
@@ -83,7 +84,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | topchatterall | topallchatter | Shows the chatter with the most messages in #revedtv or #papaplatte since september 1. | user 
  | toptimeouts |  | Shows the chatter with the most timeouts in #revedtv or #papaplatte today | user 
  | toptimeoutsall | topalltimeouts | Shows the chatter with the most timeouts in #revedtv or #papaplatte since september 1. | user 
- | unblock |  | Unblock commands in the targeted chat | admin, mod 
+ | unblock |  | Unblock commands in the targeted chat | admin, mod, dev 
  | unregister |  | Disables counting of messages for the user in #revedtv or #papaplatte | user 
  | unregisteruser |  | Disable count the messages in #revedtv or #papaplatte for an User | admin, dev 
  | uptime |  | Shows the uptime of the bot | user 
