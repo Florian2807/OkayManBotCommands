@@ -21,7 +21,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | alltimeouts | timeoutsall | Check how many timeouts a user get in the specified chat since october 1. | user 
  | antiping |  | Add an invisible (zero-space) character into every word to avoid mentioning users in chatterino. | user 
  | approvesuggest | approve | Approve Suggestions | admin 
- | block |  | Block commands in the targeted chat | admin, mod 
+ | block |  | Block commands in the targeted chat | admin, mod, dev 
  | bttvemotes | bttv | Shows you a list of all BTTV emotes of the Channel | user 
  | bttvsearch |  | Search an emote on the BetterTTV website | user 
  | channels |  | Shows you in how much Channels the Bot is | user 
