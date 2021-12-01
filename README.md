@@ -70,6 +70,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | reset stats |  | Resetting Stats of Message Count | admin 
  | restart |  | Restarts the bot | admin 
  | say | echo | repeat your message | user 
+ | search |  | duckduckgo search | user 
  | searchusername | su | Not avalible | user 
  | setlevel |  | Set Userlevel | admin 
  | setprefix |  | Change Bot-Prefix for the targeted chat | admin, dev, broadcaster 
@@ -90,4 +91,5 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | uptime |  | Shows the uptime of the bot | user 
  | vipage | vipcheck | Checks if a user is vip in a channel | user 
  | whispers |  | gives you a link to you whispers in fullscreen | user 
+ | wikihow |  | Gives you a wikihow link :)  | user 
  | write |  | Write a message in the targeted channel | admin 
