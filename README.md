@@ -44,6 +44,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | ffzsearch |  | Search an emote on the FFZ Website | user 
  | followage | fa | Check your Followage | user 
  | getaliases |  | Picks a word from the provided list of words in a message :)  | user 
+ | google |  | google search | user 
  | help |  | Give you informations about commands | user 
  | islive | live | Check livestatus of a streamer | user 
  | iswebchatter |  | Check if a user is chatting with webchat | user 
@@ -77,7 +78,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | spam |  | spams something into the chat (max. 50) | user 
  | spotify |  | check what flo is listening :) | user 
  | subage | sa | Check your Subage | user 
- | subemotes |  | Shows you all subemote of a streamer | user 
+ | subemotes |  | Shows you all subemote of a streamer | admin 
  | suggest |  | Suggest something, that can help the bot :) | user 
  | test |  | Test | admin 
  | timeouts |  | Check how many timeouts a user get in the specified chat today | user 
