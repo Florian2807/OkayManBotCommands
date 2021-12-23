@@ -56,7 +56,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | level | lvl | Check Userlevel of you or other users | user 
  | massping |  | pings everyone in the chat :tf: | admin 
  | math |  | Does math 4Head | user 
- | mcl |  | undefined | user 
+ | mcl |  | Monthly chat lines (tracked by ivr or apulxd logs) | user 
  | modage | modcheck | Checks if a user is mod in a channel | user 
  | momjoke | mj | yo momma joke | user 
  | pick |  | Picks a word from the provided list of words in a message :)  | user 
@@ -73,7 +73,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | restart |  | Restarts the bot | admin 
  | say | echo | repeat your message | user 
  | search |  | duckduckgo search | user 
- | searchusername | su | Not avalible | user 
+ | searchusername | su | Not avalible | admin 
  | setlevel |  | Set Userlevel | admin 
  | setprefix |  | Change Bot-Prefix for the targeted chat | admin, dev, broadcaster 
  | spam |  | spams something into the chat (max. 50) | user 
