@@ -58,13 +58,13 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | approvesuggest 
             | approve 
             | Approve Suggestions 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | block 
             |  
             | Block commands in the targeted chat 
-            | Developer, Developer 
+            | Developer, Moderator 
             
  
             | botsubs 
@@ -118,7 +118,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | code 
             |  
             | Returns a link to the current command Code on github 
-            | Developer, Developer 
+            | Developer, Moderator 
             
  
             | coinflip 
@@ -148,7 +148,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | denysuggest 
             | deletesuggest 
             | delete a suggestion 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | ecount 
@@ -160,13 +160,13 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | emoteannounce 
             | ea 
             | enable or disable emote announcements in your chat 
-            | Developer, Developer 
+            | Developer, Moderator 
             
  
             | emotegame 
             | emotequiz 
             | starts an emote quiz (test) 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | emotepings 
@@ -190,7 +190,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | eval 
             | eval 
             | Evaluates the given code 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | ffzemotes 
@@ -280,7 +280,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | massping 
             |  
             | pings everyone in the chat :tf: 
-            | Admin, Admin 
+            | Admin, Broadcaster 
             
  
             | math 
@@ -352,13 +352,13 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | registeruser 
             |  
             | Enable count the messages in #revedtv, #papaplatte or #ungespielt for an user 
-            | Developer, Bot, Developer 
+            | Developer, Moderator 
             
  
             | reload 
             |  
             | Reload commands 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | removesuggestion 
@@ -370,13 +370,13 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | reset stats 
             |  
             | Resetting Stats of Message Count 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | restart 
             |  
             | Restarts the bot 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | say 
@@ -394,25 +394,25 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | searchusername 
             | su 
             | Not available 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | setlevel 
             |  
             | Set Userlevel 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | setprefix 
             |  
             | Change Bot-Prefix for the targeted chat 
-            | Developer, Developer 
+            | Developer, Moderator 
             
  
             | showsuggestions 
             |  
             | Returns a Hastebin link with current suggestions. 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | spam 
@@ -424,7 +424,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | spotify 
             |  
             | check what flo is listening :) 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | subage 
@@ -436,7 +436,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | subemotes 
             |  
             | Shows you all subemote of a streamer 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | suggest 
@@ -448,7 +448,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | test 
             |  
             | Test 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
  
             | timeouts 
@@ -484,7 +484,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | unblock 
             |  
             | Unblock commands in the targeted chat 
-            | Developer, Developer 
+            | Developer, Moderator 
             
  
             | unregister 
@@ -496,7 +496,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | unregisteruser 
             |  
             | Disable count the messages in #revedtv or #papaplatte for an User 
-            | Developer, Developer 
+            | Developer, Moderator 
             
  
             | uptime 
@@ -526,5 +526,5 @@ To add the bot in your chat you have to type °join into the chat of florian_280
             | write 
             |  
             | Write a message in the targeted channel 
-            | Admin, Bot, Admin 
+            | Admin, Broadcaster 
             
