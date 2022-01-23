@@ -22,6 +22,7 @@ To add the bot in your chat you have to type °join into the chat of florian_280
  | antiping |  | Add an invisible (zero-space) character into every word to avoid mentioning users in chatterino. | User 
  | approvesuggest | approve | Approve Suggestions | Admin 
  | block |  | Block commands in the targeted chat | Developer, Moderator 
+ | blockprefix | blockemoteprefix | block emote-prefixes in this chat (1 minute timeout) | Admin, Broadcaster 
  | botsubs |  | View the bot's current subscriptions. | User 
  | bttvemotes | bttv | Shows you a list of all BTTV emotes of the Channel | User 
  | bttvsearch |  | Search an emote on the BetterTTV website | User 
